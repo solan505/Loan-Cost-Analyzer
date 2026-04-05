@@ -66,8 +66,6 @@ Applies the benefit formulas to compute Part 1 (Cost) and Part 2 (Escrow) summar
 
 ## Tech Stack
 
-| | |
-|-|-|
 | Frontend | React, Tailwind CSS |
 | Backend | Node.js, Express |
 | PDF Parsing | pdfjs-dist — spatial x,y coordinate matching |
