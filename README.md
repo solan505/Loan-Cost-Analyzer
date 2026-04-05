@@ -53,7 +53,7 @@ Applies the benefit formulas to compute Part 1 (Cost) and Part 2 (Escrow) summar
 **Part 2 — Savings Depicted by Escrows & Payoff**
 
 | Field | How |
-|-------|-----|
+
 | Loan Amount | Extracted from Loan Terms section |
 | Payoff Amount | Sum of ALL "Payoff to..." lines |
 | Principal Reduction | Separate "Principal Reduction to Consumer" line |
